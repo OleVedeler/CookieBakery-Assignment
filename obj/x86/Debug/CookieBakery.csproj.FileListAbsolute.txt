@@ -1,0 +1,10 @@
+C:\Users\skynet\Dropbox\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe
+C:\Users\skynet\Dropbox\CookieBakery\CookieBakery\bin\Debug\CookieBakery.pdb
+C:\Users\skynet\Dropbox\CookieBakery\CookieBakery\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skynet\Dropbox\CookieBakery\CookieBakery\obj\x86\Debug\CookieBakery.exe
+C:\Users\skynet\Dropbox\CookieBakery\CookieBakery\obj\x86\Debug\CookieBakery.pdb
+C:\Users\ole\Dropbox\CookieBakery\obj\x86\Debug\CookieBakery.exe
+C:\Users\ole\Dropbox\CookieBakery\obj\x86\Debug\CookieBakery.pdb
+C:\Users\ole\Dropbox\CookieBakery\bin\Debug\CookieBakery.exe
+C:\Users\ole\Dropbox\CookieBakery\bin\Debug\CookieBakery.pdb
+C:\Users\ole\Dropbox\CookieBakery\obj\x86\Debug\CookieBakery.csprojResolveAssemblyReference.cache
